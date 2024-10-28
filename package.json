@@ -1,0 +1,22 @@
+{
+  "name": "spin-and-win",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandi7469/Spin-and-Win.git"
+  },
+  "author": "Amanda Changa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandi7469/Spin-and-Win/issues"
+  },
+  "homepage": "https://github.com/mandi7469/Spin-and-Win#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
