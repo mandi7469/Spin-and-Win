@@ -22,21 +22,19 @@ This is a Node.js command-line application that takes in user input to spin a sl
 
 ## Built With
 
+<img height="50" width="50" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> <img height="50" width="50" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+          
 ## Installation
 
 1. Clone project repository down into your desired directory 
 2. Open project terminal and run the command `npm install` to install the packages and dependencies 
-3. To invoke the application, run the command `npm run start` and this will start the server and automatically restart it whenever changes are made
-4. To end and stop the application from running, run the command `control c`
+3. To invoke the application, run the command `node script.js` and follow the prompt
 
 ## Usage
 
-[Deployed application link](https://prismatic-cajeta-ac1d42.netlify.app)
+The image below shows the apperance of the console:
 
-The image below shows the apperance of the portfolio page of my application:
-
-![alt text](./src/assets/images/Screenshot%202024-08-30%20at%206.44.31 PM.png)
-
+![alt text](./assets/images/consoleDisplay.png)
 
 ## How to Contribute
 
